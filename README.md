@@ -1,5 +1,5 @@
 # testcafe-demo
-Sample TestCafe project for getting up and running.
+Sample TestCafe project to get you up and running for e2e testing.
 
 1. Clone Repo and install dependencies
 ```
